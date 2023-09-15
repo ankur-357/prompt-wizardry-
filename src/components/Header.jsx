@@ -41,12 +41,6 @@ export default function Header({ searchBarVisible, muted, setMuted }) {
           id="logo"
           className="flex justify-center items-center text-2xl font-bold text-yellow-400 pointer-events-none select-none"
         >
-          <img
-            src="/logo.png"
-            alt=""
-            className="w-12 md:w-14 h-12 p-2 md:p-0 md:h-14 bg-pink-600 md:bg-transparent rounded-full md:rounded-none"
-            draggable="false"
-          />
           <span className="hidden md:block ml-5">Prompt Wizardry</span>
         </div>
       </Link>
