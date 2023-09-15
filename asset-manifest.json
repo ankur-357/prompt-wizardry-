@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prompt-wizardry-/static/css/main.1c2c4834.css",
+    "main.js": "/prompt-wizardry-/static/js/main.3689aae5.js",
+    "index.html": "/prompt-wizardry-/index.html",
+    "main.1c2c4834.css.map": "/prompt-wizardry-/static/css/main.1c2c4834.css.map",
+    "main.3689aae5.js.map": "/prompt-wizardry-/static/js/main.3689aae5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c2c4834.css",
+    "static/js/main.3689aae5.js"
+  ]
+}
